@@ -18,8 +18,8 @@
     </a>
   </p>
 
-<p >I specialize in the use of Python Programming Language and its various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc. to create analytical and machine learning models from data, which can be used for data visualization and optimization in businesses and other fields of interest.
-</p>
+<p ><tt>I am a passionate developer specializing in web technologies and software development. My expertise includes languages like Python, JavaScript, C, and C++, along with frameworks such as Django and React. I also have experience in database management with MongoDB, SQLite, and MySQL, allowing me to build efficient and scalable applications
+</tt></p>
 
 ## Tech Stack 
 <!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> --> 
