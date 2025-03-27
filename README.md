@@ -74,6 +74,16 @@
 
 </p>
 
+## Projects
+
+<a href="https://github.com/allenbersho/Website-Blocker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allenbersho&repo=Website-Blocker&theme=tokyonight" />
+</a>  
+
+<a href="https://github.com/allenbersho/Alien-Shooter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allenbersho&repo=Alien-Shooter&theme=tokyonight" />
+</a> 
+
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 <details> 
