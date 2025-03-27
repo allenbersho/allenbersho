@@ -21,24 +21,57 @@
 <p >I specialize in the use of Python Programming Language and its various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc. to create analytical and machine learning models from data, which can be used for data visualization and optimization in businesses and other fields of interest.
 </p>
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## Tech Stack 
+<!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> --> 
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a>
-   <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
-   <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-   <a href="https://opencv.org/" target="_blank">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-  </a>
+  <a href="https://html.com/" target="_blank">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
+<a href="https://www.javascript.com/" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+</a>
+
 </p>
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
