@@ -4,7 +4,7 @@
 </p>
 
 <p align ="center">
-  <a  href="https://ifeanyi-nneji.netlify.app" target="_blank">
+  <a  href="(https://allenbersho.github.io/portfolio/)" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>
   <a href="mailto:ifeanyinneji777@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
